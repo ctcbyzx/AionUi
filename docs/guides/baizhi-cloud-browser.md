@@ -21,6 +21,12 @@ Disable only this entry before editing its header. Replace the key, save, inspec
 
 When a browser task finishes, explicitly end the runs you created through the browser service's tools or [console](https://capybrowser.app.baizhi.cloud/). Check resource release and final charges separately. During human handoff, pause agent actions and continue the same run after control is returned.
 
-Tool inputs reach Baizhi Cloud, and page actions reach the visited sites. Read the provider's terms and privacy information before use. This example is contributed and maintained by `ctcbyzx`, who maintains the Baizhi Cloud Browser integration materials.
+Tool inputs reach Baizhi Cloud, and page actions reach the visited sites. Read the provider's terms and privacy information before use.
 
 [中文指南](baizhi-cloud-browser.zh-CN.md)
+
+## Maintenance and support
+
+Maintained by [ctcbyzx](https://github.com/ctcbyzx), a contributor to [Chaitin's public integration guides](https://github.com/chaitin/baizhi-cloud-browser). See [other browser integrations](https://github.com/ctcbyzx/baizhi-cloud-browser).
+
+For setup help, use the [integration issue tracker](https://github.com/ctcbyzx/baizhi-cloud-browser/issues) and include the client version and a redacted error. Use the service console for private account or billing questions.

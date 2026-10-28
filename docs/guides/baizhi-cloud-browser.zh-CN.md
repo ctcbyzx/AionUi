@@ -21,6 +21,12 @@
 
 任务完成后，通过浏览器服务工具或[控制台](https://capybrowser.app.baizhi.cloud/)明确结束自己创建的运行，分别核对资源释放与最终账单。人工交接时暂停智能体，交还控制后继续同一运行。
 
-工具输入会发送到百智云，网页操作会访问目标网站。使用前阅读服务条款与隐私说明。此示例由百智云浏览器接入材料维护者 `ctcbyzx` 贡献并维护。
+工具输入会发送到百智云，网页操作会访问目标网站。使用前阅读服务条款与隐私说明。
 
 [English guide](baizhi-cloud-browser.md)
+
+## 维护与支持
+
+维护者：[ctcbyzx](https://github.com/ctcbyzx)（[Chaitin 公共接入仓](https://github.com/chaitin/baizhi-cloud-browser)贡献者）。更多接入方式见[公开接入材料](https://github.com/ctcbyzx/baizhi-cloud-browser)。
+
+配置问题可到[接入维护仓 Issues](https://github.com/ctcbyzx/baizhi-cloud-browser/issues)反馈，附客户端版本和脱敏错误信息。账号或账务问题请通过服务控制台处理。
